@@ -1,0 +1,28 @@
+_repo: The-Man-from-Glengarry--A-Tale-of-the-Ottawa_3287
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Connor, Ralph
+    alias: Gordon, Charles William
+    birthdate: 1860
+    deathdate: 1937
+    gutenberg_agent_id: '1142'
+    url: http://www.gutenberg.org/2009/agents/1142
+    wikipedia: http://en.wikipedia.org/wiki/Ralph_Connor
+description: ''
+gutenberg_issued: '2006-06-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3287'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Glengarry (Ont.) -- Fiction'
+- !lcsh 'Christian fiction'
+- !lcsh 'Canada -- History -- 19th century -- Fiction'
+- GITenberg
+title: 'The Man from Glengarry: A Tale of the Ottawa'
+url: http://www.gutenberg.org/ebooks/3287
